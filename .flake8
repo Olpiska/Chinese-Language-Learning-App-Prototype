@@ -1,0 +1,5 @@
+[flake8]
+max-line-length = 120
+exclude = venv,.venv,.pytest_cache,__pycache__,.mypy_cache
+per-file-ignores =
+    utils/download_story_images.py: E501

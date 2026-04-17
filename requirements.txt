@@ -1,0 +1,8 @@
+PyQt6
+SpeechRecognition
+pyaudio
+librosa
+sounddevice
+numpy
+scipy
+openai

@@ -1,0 +1,34 @@
+{
+  "hsk1": [
+    {"character": "你好", "pinyin": "nǐ hǎo", "meaning": "hello", "tones": [3, 3]},
+    {"character": "谢谢", "pinyin": "xiè xie", "meaning": "thank you", "tones": [4, 5]},
+    {"character": "是", "pinyin": "shì", "meaning": "to be", "tones": [4]},
+    {"character": "不", "pinyin": "bù", "meaning": "not / no", "tones": [4]},
+    {"character": "我", "pinyin": "wǒ", "meaning": "I / me", "tones": [3]},
+    {"character": "你", "pinyin": "nǐ", "meaning": "you", "tones": [3]},
+    {"character": "他", "pinyin": "tā", "meaning": "he / him", "tones": [1]},
+    {"character": "她", "pinyin": "tā", "meaning": "she / her", "tones": [1]},
+    {"character": "水", "pinyin": "shuǐ", "meaning": "water", "tones": [3]},
+    {"character": "吃", "pinyin": "chī", "meaning": "to eat", "tones": [1]}
+  ],
+  "hsk2": [
+    {"character": "今天", "pinyin": "jīn tiān", "meaning": "today", "tones": [1, 1]},
+    {"character": "明天", "pinyin": "míng tiān", "meaning": "tomorrow", "tones": [2, 1]},
+    {"character": "昨天", "pinyin": "zuó tiān", "meaning": "yesterday", "tones": [2, 1]},
+    {"character": "喜欢", "pinyin": "xǐ huān", "meaning": "to like", "tones": [3, 1]},
+    {"character": "朋友", "pinyin": "péng yǒu", "meaning": "friend", "tones": [2, 3]}
+  ],
+  "hsk3": [
+    {"character": "学习", "pinyin": "xué xí", "meaning": "to study", "tones": [2, 2]},
+    {"character": "工作", "pinyin": "gōng zuò", "meaning": "to work / job", "tones": [1, 4]},
+    {"character": "因为", "pinyin": "yīn wèi", "meaning": "because", "tones": [1, 4]}
+  ],
+  "hsk4": [],
+  "hsk5": [],
+  "hsk6": [],
+  "hsk7": [],
+  "hsk8": [],
+  "hsk9": [],
+  "hsk10": []
+}
+
